@@ -1,0 +1,32 @@
+/* Header contains a list of all the colour combinations. */
+#define COLOUR_RED0 235
+#define COLOUR_GREEN0 248
+#define COLOUR_BLUE0 245
+#define COLOUR_RED1 213
+#define COLOUR_GREEN1 241
+#define COLOUR_BLUE1 238
+#define COLOUR_RED2 196
+#define COLOUR_GREEN2 235
+#define COLOUR_BLUE2 226
+#define COLOUR_RED3 207
+#define COLOUR_GREEN3 231
+#define COLOUR_BLUE3 184
+#define COLOUR_RED4 204
+#define COLOUR_GREEN4 215
+#define COLOUR_BLUE4 136
+#define COLOUR_RED5 203 
+#define COLOUR_GREEN5 184
+#define COLOUR_BLUE5 99
+#define COLOUR_RED6 193
+#define COLOUR_GREEN6 149
+#define COLOUR_BLUE6 70
+#define COLOUR_RED7 182
+#define COLOUR_GREEN7 105
+#define COLOUR_BLUE7 61
+#define COLOUR_RED8 161
+#define COLOUR_GREEN8 75
+#define COLOUR_BLUE8 54
+#define COLOUR_RED9 133
+#define COLOUR_GREEN9 44
+#define COLOUR_BLUE9 44
+

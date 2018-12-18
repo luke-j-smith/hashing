@@ -1,0 +1,27 @@
+Hi Neill, 
+
+I hope you are well. 
+
+Hashing extension: 
+
+1. For part three, I have used compared the effectiveness of 
+six different combinations of hash function whilst using
+the double hashing approach. 
+
+The three hash functions are: 
+	(i) djb2; 
+	(ii) sdbm; and 
+	(iii) lose lose. 
+All are taken from: http://www.cse.yorku.ca/~oz/hash.html
+
+After the six results have been displayed on screen, the user is able to select whether they would like to see the final 'heat map' for each of the six hash tables. The darker the colour, the higher the density of words in that area. 
+
+In order to 'smooth out' the graphics on SDL, I have used a simple moving average. 
+
+2. I have slightly modified neillsdl2.c and neillsdl2.h - this was only to change the screen size and some colours. 
+
+3. Please note that for the extension (and the extension only!), not all of the callocs have been freed. I would just like to make you aware of this before hand - I did not have time to write a function to properly take care of the HeatMap structure within HashTable and ran out of time. The lack of time also contributed to some unpleasant code which I did not have time improve. I apologise for this in advance, however hope that the idea comes across!
+
+Many thanks, 
+
+Luke 
